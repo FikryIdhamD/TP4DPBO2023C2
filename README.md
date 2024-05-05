@@ -35,5 +35,7 @@ Halaman pals
 
 Dokumentasi Video
 
-https://github.com/FikryIdhamD/TP4DPBO2023C2/assets/147605722/2c2419f2-7dc0-4841-a878-0eb089b412c3
+https://github.com/FikryIdhamD/TP4DPBO2024C2/assets/147605722/f6d3440e-78a8-481f-9f68-352e17ccca15
+
+
 
